@@ -13,15 +13,15 @@
 </p>
 
 <div style="width: 100%;" align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmid-islam" alt="Tahmid-islam" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahanaf-tahmid-el" alt="ahanaf-tahmid-el" />
 </div>
 <table width="100%">
   <tr>
     <td>
-      <img height="300em"src="https://github-readme-stats.vercel.app/api?username=Tahmid-islam&show_icons=true&hide_border=true&count_private=true" /> 
+      <img height="300em"src="https://github-readme-stats.vercel.app/api?username=ahanaf-tahmid-el&show_icons=true&hide_border=true&count_private=true" /> 
     </td>
     <td> 
-      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid-islam&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+      <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahanaf-tahmid-el&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
     </td>
   </tr>
 <table>
@@ -45,12 +45,12 @@
   <div style="width: 50%;" align="center" >
     
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tahmidbd/)
-&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Tahmid-islam) 
+&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ahanaf-tahmid-el) 
 
    <div >
   <div style="width: 50%;" align="center" >
    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tahmid-islam&color=dc143c&style=plastic&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=ahanaf-tahmid-el&color=dc143c&style=plastic&label=PROFILE+VIEWS">
 </a>
   </div>
   </div>
